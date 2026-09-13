@@ -1,6 +1,6 @@
 # Xin chào, mình là Trí! 👋
 
-Mình hiện đang là sinh viên chuyên ngành **Công nghệ kỹ thuật máy tính (Kỹ thuật phần mềm ô tô)**. Mình đam mê lập trình, thích khám phá các công nghệ mới và luôn hướng tới việc xây dựng các ứng dụng thực tế.
+Mình hiện đang là sinh viên chuyên ngành **Công nghệ kỹ thuật máy tính (Kỹ thuật phần mềm ô tô)**. Mình đam mê lập trình, thích khám phá các công nghệ mới và luôn hướng tới việc xây dựng các ứng dụng thực tế để giải quyết các bài toán vận hành.
 
 ### 🛠 Kỹ năng & Công nghệ
 <p align="left">
@@ -14,8 +14,13 @@ Mình hiện đang là sinh viên chuyên ngành **Công nghệ kỹ thuật má
 </p>
 
 ### 🚀 Các dự án nổi bật
+
+* **HUTEA POS - Phần mềm Quản lý Quán Cafe:** Đây là dự án cá nhân tâm huyết nhất của mình. Hệ thống giải quyết bài toán vận hành thực tế của quán cafe với các phân hệ:
+  * **Quản lý Nhân sự:** Xử lý quy trình tuyển dụng (duyệt đơn từ bảng tạm), phân ca làm việc linh hoạt, chấm công và chốt lương tháng.
+  * **Vận hành & Bán hàng:** Quản lý bán hàng trực tiếp tại quầy, quản lý menu đồ uống.
+  * **Quản lý Kho:** Kiểm soát xuất/nhập kho nguyên liệu chặt chẽ.
+* **Desktop Note-taking App:** Ứng dụng ghi chú cá nhân áp dụng chuẩn kiến trúc MVC, xây dựng với Java (JavaFX/Swing) và quản trị cơ sở dữ liệu bằng SQL Server.
 * **Quản lý Gara Ô tô:** Ứng dụng quản lý làm việc nhóm xây dựng bằng Java và MySQL.
-* **Desktop Note-taking App:** Ứng dụng ghi chú cá nhân áp dụng mô hình MVC, xây dựng với Java (JavaFX/Swing) và SQL Server.
 
 ### 📈 Thống kê GitHub
 <p align="left">
