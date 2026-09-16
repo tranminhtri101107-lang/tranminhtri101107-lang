@@ -1,6 +1,6 @@
 # Xin chào, mình là Trí! 👋
 
-Mình hiện đang là sinh viên chuyên ngành **Công nghệ kỹ thuật máy tính (Kỹ thuật phần mềm ô tô)**. Mình đam mê lập trình, thích khám phá các công nghệ mới và luôn hướng tới việc xây dựng các ứng dụng thực tế để giải quyết các bài toán vận hành.
+Mình hiện đang là sinh viên ngành **Công nghệ kỹ thuật máy tính (Chuyên ngành: Kỹ thuật phần mềm ô tô)**. Mình đam mê lập trình, thích khám phá các công nghệ mới và luôn hướng tới việc xây dựng các ứng dụng thực tế để giải quyết các bài toán vận hành. Bên cạnh đó mình cũng đam mê 
 
 ### 🛠 Kỹ năng & Công nghệ
 <p align="left">
